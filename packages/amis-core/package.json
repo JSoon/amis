@@ -1,6 +1,6 @@
 {
   "name": "@financial-freedom/amis-core",
-  "version": "6.8.1",
+  "version": "6.8.2",
   "description": "amis-core",
   "main": "lib/index.js",
   "module": "esm/index.js",
