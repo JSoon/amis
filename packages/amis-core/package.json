@@ -1,5 +1,5 @@
 {
-  "name": "amis-core",
+  "name": "@financial-freedom/amis-core",
   "version": "6.8.1",
   "description": "amis-core",
   "main": "lib/index.js",

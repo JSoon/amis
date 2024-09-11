@@ -1,5 +1,5 @@
 {
-  "name": "amis",
+  "name": "@financial-freedom/amis",
   "version": "6.8.1",
   "description": "一种MIS页面生成工具",
   "main": "lib/index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "amis-editor-core",
+  "name": "@financial-freedom/amis-editor-core",
   "version": "6.8.1",
   "description": "amis 可视化编辑器",
   "main": "lib/index.js",
